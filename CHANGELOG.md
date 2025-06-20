@@ -1,5 +1,20 @@
 # Changelog
 
+## [4.3.2](https://github.com/luisbocanegra/plasma-panel-colorizer/compare/v4.3.1...v4.3.2) (2025-06-20)
+
+
+### Bug Fixes
+
+* check empty callback in DBusFallBack ([0746b25](https://github.com/luisbocanegra/plasma-panel-colorizer/commit/0746b25cdf2e9a4420a8c4711e35166d14877115))
+* missing quotes in translation ([373b251](https://github.com/luisbocanegra/plasma-panel-colorizer/commit/373b251d9a0a28e1ff43095d126d1c8ea2c39721))
+
+## [4.3.1](https://github.com/luisbocanegra/plasma-panel-colorizer/compare/v4.3.0...v4.3.1) (2025-06-07)
+
+
+### Bug Fixes
+
+* remove version check logging ([c29295d](https://github.com/luisbocanegra/plasma-panel-colorizer/commit/c29295da0a0773abbe36ea1cd7301a547c81b2a8))
+
 ## [4.3.0](https://github.com/luisbocanegra/plasma-panel-colorizer/compare/v4.2.0...v4.3.0) (2025-06-05)
 
 
