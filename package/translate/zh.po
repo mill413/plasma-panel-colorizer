@@ -915,7 +915,7 @@ msgstr "显示："
 msgid ""
 "WARNING: Use with caution, if you hide the panel and have not configured preset auto-loading or know how to switch presets using D-Bus (or have disabled it), you will have no way to make it visible again without manually removing the configuration, use the command below in terminal/tty then log out or reboot, it will renove the configuratiob from all Panel Colorizer instances so make sure to "
 "save the others first"
-msgstr "警告：谨慎使用！若隐藏面板且未配置预设自动加载或不熟悉 D-Bus 切换预设（或已禁用 D-Bus），则需手动删除配置才能恢复可见性。请在终端/tty 执行以下命令后注销或重启，此操作将删除所有 Panel Colorizer 实例的配置，请确保已保存其他实例的配置："
+msgstr "警告：谨慎使用！若隐藏面板且未配置预设自动加载或不熟悉 D-Bus 切换预设（或已禁用 D-Bus），则需手动删除配置才能恢复可见性。请在终端/tty 执行以下命令后注销或重启，此操作将删除所有 Panel Colorizer 实例的配置，请确保已保存其他实例的配置"
 
 #: ../contents/ui/configStockPanelSettings.qml
 msgid "If you have D-Bus enabled is it recommended that you use that with shortcuts instead. Consult the README to learn more or see the General tab for some examples."
